@@ -14,7 +14,7 @@ class Navbar extends HTMLElement {
                     <ul>
                         <li><a href="/">Home</a></li>
                         <li><a href="/about.html">About Us</a></li>
-                        <li><a href="/meetings.html">Meetings</a></li>
+                        <li><a href="https://www.meetup.com/hsv-cyberspace">Meetings</a></li>
                     </ul>
                 </nav>
             </header>
